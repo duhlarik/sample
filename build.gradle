@@ -21,7 +21,7 @@ sourceCompatibility = 1.8
 
 
 jar {
-    baseName = 'sample'
+    baseName = 'still-journey-11051'
     version = '1.0'
 }
 
