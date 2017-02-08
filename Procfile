@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT $JAVA_OPTS -jar build/libs/still-journey-11051-1.0.jar
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar build/libs/sample-1.0.jar
